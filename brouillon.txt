@@ -1,0 +1,246 @@
+<!-- <section class="sdg">
+        <h2 class="section-title">
+            Substainable Development Goals
+        </h2>
+
+        <p class="container">
+            The Sustainable Development Goals (SDGs), also known as the Global Goals, are a 
+            set of 17 interconnected goals established by the United Nations in 2015 as a 
+            universal call to action to end poverty, protect the planet, and ensure prosperity 
+            for all by 2030. The SDGs build on the success of the Millennium Development 
+            Goals (MDGs) but are more comprehensive and address a wider range of issues. <br>
+            The 17 SDGs are as follows:
+        </p>
+
+        <div class="container">
+            <div class="sdg-goals">
+                <div class="sdg-box no-grid1">
+                    <a class="img-link sdg1">
+                        <img src="images/SDG17/E_PRINT_01.jpg" alt="SDG1">
+                    </a>
+                    <p class="sdg-details">
+                        DONATE WHAT YOU DON'T USE. <br>
+                        More than 700 million people still live in extreme poverty.
+                    </p>
+                </div>
+                <div class="sdg-box no-grid1">
+                    <a class="img-link sdg1">
+                        <img src="images/SDG17/E_PRINT_02.jpg" alt="SDG2">
+                    </a>
+                    <p class="sdg-details">
+                        WASTE LESS FOOD AND SUPPORT LOCAL FARMERS. <br>
+                        A third of the world's food is wasted, yet 821 million people are undernourished.
+                    </p>
+                </div>
+                <div class="sdg-box no-grid1">
+                    <a class="img-link sdg1">
+                        <img src="images/SDG17/E_PRINT_03.jpg" alt="SDG3">
+                    </a>
+                    <p class="sdg-details">
+                        VACCINATE YOUR FAMILY. <br>
+                        Vaccinations resulted in an 80% drop in measles deaths between 2000 and 2017.
+                    </p>
+                </div>
+                <div class="sdg-box no-grid1">
+                    <a class="img-link sdg1">
+                        <img src="images/SDG17/E_PRINT_04.jpg" alt="SDG4">
+                    </a>
+                    <p class="sdg-details">
+                        HELP EDUCATE THE CHILDREN IN YOUR COMMUNITY. <br>
+                        617 million children and adolescents lack minimum proficiency in reading and mathematics.
+                    </p>
+                </div>
+                <div class="sdg-box no-grid1">
+                    <a class="img-link sdg1">
+                        <img src="images/SDG17/E_PRINT_05.jpg" alt="SDG5">
+                    </a>
+                    <p class="sdg-details">
+                        EMPOWER WOMEN AND GIRLS AND ENSURE THEIR EQUAL RIGHTS. <br>
+                        1 in 3 women has experienced physical and/or sexual violence.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="sdg-goals">
+                <div class="sdg-box no-grid1">
+                    <a class="img-link sdg1">
+                        <img src="images/SDG17/E_PRINT_06.jpg" alt="SDG6">
+                    </a>
+                    <p class="sdg-details">
+                        DONATE WHAT YOU DON'T USE. <br>
+                        More than 700 million people still live in extreme poverty.
+                    </p>
+                </div>
+                <div class="sdg-box no-grid1">
+                    <a class="img-link sdg1">
+                        <img src="images/SDG17/E_PRINT_07.jpg" alt="SDG7">
+                    </a>
+                    <p class="sdg-details">
+                        WASTE LESS FOOD AND SUPPORT LOCAL FARMERS. <br>
+                        A third of the world's food is wasted, yet 821 million people are undernourished.
+                    </p>
+                </div>
+                <div class="sdg-box no-grid1">
+                    <a class="img-link sdg1">
+                        <img src="images/SDG17/E_PRINT_08.jpg" alt="SDG8">
+                    </a>
+                    <p class="sdg-details">
+                        VACCINATE YOUR FAMILY. <br>
+                        Vaccinations resulted in an 80% drop in measles deaths between 2000 and 2017.
+                    </p>
+                </div>
+                <div class="sdg-box no-grid1">
+                    <a class="img-link sdg1">
+                        <img src="images/SDG17/E_PRINT_09.jpg" alt="SDG9">
+                    </a>
+                    <p class="sdg-details">
+                        HELP EDUCATE THE CHILDREN IN YOUR COMMUNITY. <br>
+                        617 million children and adolescents lack minimum proficiency in reading and mathematics.
+                    </p>
+                </div>
+                <div class="sdg-box no-grid1">
+                    <a class="img-link sdg1">
+                        <img src="images/SDG17/E_PRINT_10.jpg" alt="SDG10">
+                    </a>
+                    <p class="sdg-details">
+                        EMPOWER WOMEN AND GIRLS AND ENSURE THEIR EQUAL RIGHTS. <br>
+                        1 in 3 women has experienced physical and/or sexual violence.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="sdg-goals">
+                <div class="sdg-box no-grid1">
+                    <a class="img-link sdg1">
+                        <img src="images/SDG17/E_PRINT_11.jpg" alt="SDG11">
+                    </a>
+                    <p class="sdg-details">
+                        DONATE WHAT YOU DON'T USE. <br>
+                        More than 700 million people still live in extreme poverty.
+                    </p>
+                </div>
+                <div class="sdg-box no-grid1">
+                    <a class="img-link sdg1">
+                        <img src="images/SDG17/E_PRINT_12.jpg" alt="SDG12">
+                    </a>
+                    <p class="sdg-details">
+                        WASTE LESS FOOD AND SUPPORT LOCAL FARMERS. <br>
+                        A third of the world's food is wasted, yet 821 million people are undernourished.
+                    </p>
+                </div>
+                <div class="sdg-box no-grid1">
+                    <a class="img-link sdg1">
+                        <img src="images/SDG17/E_PRINT_13.jpg" alt="SDG13">
+                    </a>
+                    <p class="sdg-details">
+                        VACCINATE YOUR FAMILY. <br>
+                        Vaccinations resulted in an 80% drop in measles deaths between 2000 and 2017.
+                    </p>
+                </div>
+                <div class="sdg-box no-grid1">
+                    <a class="img-link sdg1">
+                        <img src="images/SDG17/E_PRINT_14.jpg" alt="SDG14">
+                    </a>
+                    <p class="sdg-details">
+                        HELP EDUCATE THE CHILDREN IN YOUR COMMUNITY. <br>
+                        617 million children and adolescents lack minimum proficiency in reading and mathematics.
+                    </p>
+                </div>
+                <div class="sdg-box no-grid1">
+                    <a class="img-link sdg1">
+                        <img src="images/SDG17/E_PRINT_15.jpg" alt="SDG15">
+                    </a>
+                    <p class="sdg-details">
+                        EMPOWER WOMEN AND GIRLS AND ENSURE THEIR EQUAL RIGHTS. <br>
+                        1 in 3 women has experienced physical and/or sexual violence.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="sdg-goals">
+                <div class="sdg-box no-grid1">
+                    <a class="img-link sdg1">
+                        <img src="images/SDG17/E_PRINT_16.jpg" alt="SDG16">
+                    </a>
+                    <p class="sdg-details">
+                        DONATE WHAT YOU DON'T USE. <br>
+                        More than 700 million people still live in extreme poverty.
+                    </p>
+                </div>
+                <div class="sdg-box no-grid1">
+                    <a class="img-link sdg1">
+                        <img src="images/SDG17/E_PRINT_17.jpg" alt="SDG17">
+                    </a>
+                    <p class="sdg-details">
+                        WASTE LESS FOOD AND SUPPORT LOCAL FARMERS. <br>
+                        A third of the world's food is wasted, yet 821 million people are undernourished.
+                    </p>
+                </div>
+                <div class="sdg-box no-grid1">
+                    <a class="img-link sdg1">
+                        <img src="images/SDG17/global-goals.png" alt="SDG1">
+                    </a>
+                    <p class="sdg-details">
+                        
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section> -->
+
+    /* SDG 17 */
+
+/*.sdg{
+    margin: 10px 100px;
+}
+
+.sdg-goals{
+    min-height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sdg-box{
+    position: relative;
+}
+
+.img-link{
+    background-size: cover;
+    background-position: center;
+}
+
+.img-link img{
+    width: 291px;
+}
+
+.no-grid1{
+    min-width: 287px;
+    height: 300px;
+    flex: 1;
+}
+
+.sdg-details{
+    font-size: 15px;
+    background-color: #FFFFFFDF;
+    position: absolute;
+    width: 100%;
+    height: 160px;
+    text-align: center;
+}
+
+.container{
+    margin-bottom: 10px;
+    font-family: 'abril falface', cursive;
+}*/
+
+text-variant: small-caps;
+text-transform:
+text-decoration:
+text-shadow: horizontal, vertical, shadow effect
+word-spacing:

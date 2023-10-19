@@ -1,0 +1,487 @@
+
+*{
+    margin: 0%;
+}
+/* HEADER */
+
+header.header img{
+    width: 150px;
+}
+
+header.header{
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin: 5px 100px;
+}
+
+.menu{
+    position: absolute;
+    right: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+.giver{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    width: 400px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+.giver li{
+    font-weight: 600;
+    color: orange;
+}
+
+.giver li span{
+    color: white;
+    background-color: orange;
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 10px 13px;
+}
+
+nav.nav{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 400px;
+    margin-left: 30px;
+}
+
+nav.nav li{
+    color: rgb(51, 176, 253);
+}
+
+.link{
+    text-decoration: none;
+    color: rgb(51, 176, 253);
+}
+
+/* LANDING PAGE */
+.landing-page{
+    background-image: url(images/profil/2023_07_16_14_30_IMG_2906.jpg);
+    background-size: cover;
+    opacity: 0.7;
+    height: 120vh;
+}
+
+.landing-page p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: 600;
+}
+
+/* FIELD */
+
+.fields{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px 100px;
+}
+
+.activities{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.fieldIcon{
+    font-size: 60px;
+    color: rgb(51, 176, 253);
+}
+
+.fieldDetails{
+    font-size: x-large;
+    font-weight: 700;
+    width: 250px;
+    text-align: center;
+}
+
+/* MAIN OBJECTIVE */
+
+.section-title{
+    font-size: 35px;
+    font-family: 'abril falface', cursive;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.section-title::before{
+    content: "";
+    position: absolute;
+    background-color: rgb(51, 176, 253);
+    width: 50px;
+    height: 7px;
+    bottom: 0%;
+}
+
+.main-objective{
+   margin: 30px 100px;
+}
+
+.mainGoals{
+    background-color: red;
+    min-height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.goals-box{
+    position: relative;
+    background-size: cover;
+    background-position: center;
+}
+
+.no-grid{
+    min-width: 250px;
+    height: 500px;
+    flex: 1;
+}
+
+.go1{
+    background: url(images/bgImages/go1_1.jpg);
+    background-size: cover;
+}
+.go2{
+    background: url(images/bgImages/go2_2.jpg);
+    background-size: cover;
+}
+.go3{
+    background: url(images/bgImages/go3_1.jpg);
+    background-size: cover;
+}
+.go4{
+    background: url(images/bgImages/go4_1.jpg);
+    background-size: cover;
+}
+.go5{
+    background: url(images/bgImages/go5_1.jpg);
+    background-size: cover;
+}
+
+.goalName{
+    background-color: #FFFFFFDF;
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+    padding: 15px 0px 15px 5px;
+    text-align: justify;
+}
+
+.goalName p{
+    font-size: 19px;
+    font-weight: 600;
+}
+
+/* SLIDESHOW */
+.container{
+    margin: 50px 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section{
+    display: flex;
+    align-items: center;
+}
+
+.details{
+    width: 728px;
+    margin-right: 5px;
+    margin-bottom: 0%;
+}
+
+/* Styling the area of the slides */
+#slideshow {
+    overflow: hidden;
+    height: 510px;
+    width: 728px;
+}
+
+/* Style each of the sides with a fixed width and height */
+.slide {
+    float: left;
+    height: 510px;
+    width: 728px;
+}
+
+/* Add animation to the slides */
+.slide-wrapper {
+    
+    /* Calculate the total width on the basis of number of slides */
+    width: calc(728px * 18);
+    
+    /* Specify the animation with the duration and speed */
+    animation: slide 50s ease infinite;
+}
+
+/* Define the animation for the slideshow */
+@keyframes slide {
+    
+/* Calculate the margin-left for each of the slides */
+    5.55% {
+        margin-left: 0px;
+    }
+    11.1% {
+        margin-left: calc(-728px * 1);
+    }
+    16.65% {
+        margin-left: calc(-728px * 2);
+    }
+    22.2% {
+        margin-left: calc(-728px * 3);
+    }
+    27.75% {
+        margin-left: calc(-728px * 4);
+    }
+    33.3% {
+        margin-left: calc(-728px * 5);
+    }
+    38.85% {
+        margin-left: calc(-728px * 6);
+    }
+    44.4% {
+        margin-left: calc(-728px * 7);
+    }
+    49.95% {
+        margin-left: calc(-728px * 8);
+    }
+    55.5% {
+        margin-left: calc(-728px * 9);
+    }
+    61.05% {
+        margin-left: calc(-728px * 10);
+    }
+    66.6% {
+        margin-left: calc(-728px * 11);
+    }
+    72.15% {
+        margin-left: calc(-728px * 12);
+    }
+    77.7% {
+        margin-left: calc(-728px * 13);
+    }
+    83.25% {
+        margin-left: calc(-728px * 14);
+    }
+    88.8% {
+        margin-left: calc(-728px * 15);
+    }
+    94.35% {
+        margin-left: calc(-728px * 16);
+    }
+    100% {
+        margin-left: calc(-728px * 17);
+    }
+}
+
+/* FOOTER */
+
+footer{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin: 20px 100px;
+    border-top: 2px solid black;
+}
+
+.foot{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+    height: 20px;
+    color: white;
+    background-color: black;
+}
+
+.bgimg{
+    background-image: url(images/profil/photoDeCouverture-removebg-preview.png);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.7;
+    width: 100%;
+    height: 410px;
+}
+
+.copyright{
+    position: absolute;
+    bottom: 0%;
+}
+
+footer a.cgv{
+    position: absolute;
+    right: 0%;
+    bottom: 0%;
+    text-decoration: none;
+    color: white;
+}
+
+/* ABOUT US */
+
+.infos{
+    margin: 20px 100px;
+}
+
+.para-info{
+    font-size: large;
+    line-height: 1.3;
+}
+
+.para-info1{
+    font-size: large;
+}
+
+caption{
+    font-weight: 600;
+    margin: 5px 0px;
+}
+
+.topmargin{
+    margin-top: 15px;
+}
+
+th{
+    width: 20%;
+    text-align: justify;
+}
+
+.background1{
+    background-color: rgb(51, 176, 253);
+    height: 35px;
+}
+
+.background2{
+    background-color: orange;
+    width: 50%;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    font-size: x-large;
+    font-family: 'abril falface', cursive;
+}
+
+.table{
+    border: 1px outset;
+    margin: auto;
+    padding: 5px;
+}
+
+/* OUR WORK */
+
+.indentation{
+    font-style: italic;
+    font-weight: 600;
+}
+
+/* CONTACT */
+
+.forms{
+    margin: 50px 200px;
+}
+
+.text{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+.para{
+    margin: 10px 0px;
+}
+
+.name{
+    display: flex;
+    justify-content: space-between;
+    height: 45px;
+}
+
+.format{
+    border: 2px solid grey;
+    border-radius: 7px;
+    width: 100%;
+}
+
+.frame{
+    display: flex;
+    height: 45px;
+}
+
+.tframe{
+    display: flex;
+    height: 100px;
+}
+
+.group{
+    border: none;
+}
+
+.group legend{
+    font-family: 'abril falface', cursive;
+    font-size: xx-large;
+    color: orange;
+}
+
+.submitt{
+    font-size: xx-large;
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 20px 40px;
+    background-color: white;
+}
+
+.submitt:hover{
+    color: white;
+    background-color: black;
+}
+
+/* Donate */
+
+.link1{
+    text-decoration: none;
+    color: white;
+}
+
+.format1{
+    border: 2px solid grey;
+    border-radius: 7px;
+    width: 50%;
+}
+
+.format2{
+    border: 2px solid grey;
+    border-radius: 7px;
+    width: 25%;
+}
+
+/* Partner */
+
+.plink{
+    font-weight: 600;
+    color: orange;
+    text-decoration: none;
+}
+
+.section1{
+    display: flex;
+}
+
+.s-section1{
+    width: 50%;
+}
+
+.margin{
+    margin-right: 10px;
+}
+
+.s-format{
+    border: 2px solid grey;
+    border-radius: 7px;
+    width: 100%;
+}
+
+
